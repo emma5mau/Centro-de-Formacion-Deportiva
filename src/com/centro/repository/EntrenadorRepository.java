@@ -1,4 +1,6 @@
 package com.centro.repository;
 
-public class EntrenadorRepository {
+import com.centro.model.Entrenador;
+
+public class EntrenadorRepository extends Repository<Entrenador> {
 }
